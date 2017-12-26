@@ -1,0 +1,6 @@
+fontawesome
+
+特点:
+1.所有的svg通过class调用，异步加载
+2.svg会完美继承父元素的CSS特性的size和color
+
